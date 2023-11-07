@@ -1,0 +1,10 @@
+Word: Java - Count: 1
+Word: java - Count: 1
+Word: world - Count: 1
+Word: Hello - Count: 2
+Word: tito - Count: 1
+Word: Tito - Count: 1
+Word: hello - Count: 3
+Word: World - Count: 4
+Word: chase - Count: 1
+Word: Chase - Count: 2
